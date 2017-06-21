@@ -2,7 +2,9 @@
 	co = checkout
 	ci = commit
 	st = status
+	cp = cherry-pick
 	unstage = reset HEAD --
+	last = log -1 HEAD
 [user]
 	name = isper3at
 	email = smith3at@gmail.com
