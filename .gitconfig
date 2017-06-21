@@ -1,0 +1,8 @@
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	unstage = reset HEAD --
+[user]
+	name = isper3at
+	email = smith3at@gmail.com
